@@ -84,7 +84,7 @@ function activeDrum(letter) {
 
 
 /**
- * Add event listener to all elements with drum id
+ * Add event listener to all elements with drum class
  */
 
 $(".drum").on("mousedown", handleMouseDown);
